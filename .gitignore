@@ -1,0 +1,17 @@
+*.hex
+*.elf
+*.bin
+*.o
+*.d
+build/
+.pio/
+.pioenvs/
+.piolibdeps/
+
+.vscode/
+.idea/
+*.swp
+*~
+
+.DS_Store
+Thumbs.db
